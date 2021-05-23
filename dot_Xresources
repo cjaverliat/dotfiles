@@ -1,0 +1,23 @@
+*.dpi: 192
+
+! xft fonts
+!-----------------
+Xft.dpi: 192
+Xft.autohint: 0
+Xft.lcdfilter: lcddefault
+Xft.hintstyle: hintfull
+Xft.hinting: 1
+Xft.antialias: 1
+Xft.rgba: rgb
+
+! urxvt
+!------------------
+URxvt.font: xft:MesloLGS NF:size=11
+URxvt.background: black
+URxvt.foreground: white
+URxvt.scrollBar: false
+
+! rofi
+!------------------
+
+rofi.dpi: 192
